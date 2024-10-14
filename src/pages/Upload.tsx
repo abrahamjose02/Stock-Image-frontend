@@ -59,7 +59,7 @@ useTokenRefresh();
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       console.log('Upload successful', response.data);
-      setFileItems([]); // Clear file items after successful upload
+      setFileItems([]); 
     } catch (error:any) {
       console.error('Upload failed:', error.response ? error.response.data : error.message);
     }
