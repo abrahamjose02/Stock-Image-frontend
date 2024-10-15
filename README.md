@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` for your "Stock Image" project, based on the details you've provided:
-
----
-
 # Stock Image Application
 
 ## Introduction
